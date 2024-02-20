@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+I'm Yvan CARRÉ.
+I'm studying in AIMS SOUTH AFRICA.
+I'm software engineer.
+My interests are about AI, Deep Learning, Optimization algorithm, DevOps,
 <!--
 **cvilmorin/cvilmorin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
