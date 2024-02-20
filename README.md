@@ -20,8 +20,8 @@ Here are some projects I'm currently working on or have contributed to:
 -->
 ## Get in Touch
 
-- LinkedIn: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yvan-carré-8230442b1)
-- Email: [![Yvan Marcel CARRÉ VILMORIN](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carre@aims.ac.za)
+-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yvan-carré-8230442b1)
+-  [![GMail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](carre@aims.ac.za)
 
 Feel free to reach out if you have any questions, suggestions, or just want to connect!
 
