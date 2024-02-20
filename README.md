@@ -1,25 +1,14 @@
-## Hi there 👋
-I'm Yvan CARRÉ.//
-I'm studying in AIMS SOUTH AFRICA.
-I'm software engineer.
-
-# Social
-
-[![vilmo18](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cvilmorin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/yvan-carré-8230442b1)
-
-
-# 👋 Welcome to [Yvan CARRÉ]'s GitHub Profile!
+# 👋 Welcome to Yvan's GitHub Profile!
 
 ## About Me
 
-Hi there! I'm [Yvan CARRÉ], a passionate [your role or field] based in [your location]. I love coding, and I'm constantly exploring new technologies and ideas.
+Hi there! I'm Yvan CARRÉ, a passionate solution seekers based in AIMS SA. I love coding, and I'm constantly exploring new technologies and ideas.
 
 ## My Interests
 
-- [Artificial Intelligence]
-- [Optimization Algorithm]
-- [Deep Learning]
+- Artificial Intelligence
+- Optimization Algorithm
+- Deep Learning
 
 <!--## My Projects
 
